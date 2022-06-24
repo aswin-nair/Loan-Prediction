@@ -1,7 +1,7 @@
 # Loan-Prediction
 ## Objective of the Notebook
 
-This notebook is designed for people who want to solve binary classification problems using Python. By the end of this notebook, you will have the necessary skills and techniques required to solve such problems.
+This notebook automates the loan eligiblity process based on the data given by the customers
 
 ## Expectation from the Notebook
 This notebook is divided into the below sections:
